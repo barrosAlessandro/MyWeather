@@ -7,7 +7,7 @@ Trabalho de conclusão da disciplina persistencia de dados e networking: Weather
 ○ Considerar as preferências do sistema:
 	1. C° ou F° <b>DONE</b>
 	2. Idioma <b>MISSING</b>
-	3. Offline mode  <b>OPTIONAL</b>
+	3. Offline mode  <b>OPTIONAL</b>	
 		● True: considerar os
 		últimos dados salvos
 		localmente;
