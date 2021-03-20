@@ -2,7 +2,7 @@
 
 Trabalho de conclusão da disciplina persistencia de dados e networking: Weather APP - Professor: Wellington Cabral - Turma: Dev-Apps 2020.2
 
-1. Finalizar o layout; <b>DONE</b>
+1. Finalizar o layout; <p style="color:blue"><b>DONE</b></p>
 2. Ao clicar em “SEARCH”
 ○ Considerar as preferências do sistema:
 	1. C° ou F° <b>DONE</b>
