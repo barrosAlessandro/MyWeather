@@ -6,6 +6,7 @@ Trabalho de conclusão da disciplina persistencia de dados e networking: Weather
 
 
 
-https://user-images.githubusercontent.com/61049676/111887316-fc006380-89b2-11eb-94a2-aaf379ff5d76.mp4
+![Android Emulator - Pixel_XL_API_29_5554 2021-03-20 19-29-33](https://user-images.githubusercontent.com/61049676/111887364-6c0ee980-89b3-11eb-9021-38cf95320547.gif)
+
 
 
